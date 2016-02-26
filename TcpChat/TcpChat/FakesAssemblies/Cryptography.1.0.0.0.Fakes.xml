@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cryptography.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Cryptography.Fakes.ShimCrypto">
+            <summary>Тип оболочки совместимости для Cryptography.Crypto</summary>
+        </member>
+        <member name="M:Cryptography.Fakes.ShimCrypto.#ctor">
+            <summary>Инициализация нового экземпляра оболочки совместимости</summary>
+        </member>
+        <member name="M:Cryptography.Fakes.ShimCrypto.#ctor(Cryptography.Crypto)">
+            <summary>Инициализация новой оболочки совместимости для заданного экземпляра</summary>
+        </member>
+        <member name="M:Cryptography.Fakes.ShimCrypto.BehaveAsCurrent">
+            <summary>Назначение поведения &quot;Current&quot; всем методам типа с оболочкой совместимости</summary>
+        </member>
+        <member name="M:Cryptography.Fakes.ShimCrypto.BehaveAsNotImplemented">
+            <summary>Назначение поведения &quot;NotImplemented&quot; всем методам типа с оболочкой совместимости</summary>
+        </member>
+        <member name="P:Cryptography.Fakes.ShimCrypto.Behavior">
+            <summary>Назначение поведения всем методам типа с оболочкой совместимости</summary>
+        </member>
+        <member name="P:Cryptography.Fakes.ShimCrypto.Constructor">
+            <summary>Задает оболочка совместимости Crypto.Crypto()</summary>
+        </member>
+        <member name="P:Cryptography.Fakes.ShimCrypto.DecryptByteArrayByteArrayByteArray">
+            <summary>Задает оболочка совместимости Crypto.Decrypt(Byte[] cipherText, Byte[] Key, Byte[] IV)</summary>
+        </member>
+        <member name="P:Cryptography.Fakes.ShimCrypto.EncryptStringByteArrayByteArray">
+            <summary>Задает оболочка совместимости Crypto.Encrypt(String plainText, Byte[] Key, Byte[] IV)</summary>
+        </member>
+        <member name="T:Cryptography.Fakes.ShimCrypto.AllInstances">
+            <summary>Определение оболочек совместимости для всех членов экземпляров</summary>
+        </member>
+        <member name="T:Cryptography.Fakes.StubCrypto">
+            <summary>Тип заглушки Cryptography.Crypto</summary>
+        </member>
+        <member name="M:Cryptography.Fakes.StubCrypto.#ctor">
+            <summary>Инициализирует новый экземпляр</summary>
+        </member>
+        <member name="M:Cryptography.Fakes.StubCrypto.InitializeStub">
+            <summary>Инициализирует новый экземпляр type StubCrypto</summary>
+        </member>
+        <member name="P:Cryptography.Fakes.StubCrypto.CallBase">
+            <summary>Получает или задает значение, указывающее, следует ли вызывать базовый метод вместо резервного поведения</summary>
+        </member>
+        <member name="P:Cryptography.Fakes.StubCrypto.InstanceBehavior">
+            <summary>Получает или задает поведение экземпляра.</summary>
+        </member>
+        <member name="P:Cryptography.Fakes.StubCrypto.InstanceObserver">
+            <summary>Получает или задает наблюдатель экземпляра.</summary>
+        </member>
+    </members>
+</doc>

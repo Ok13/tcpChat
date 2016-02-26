@@ -1,0 +1,10 @@
+C:\DB\TcpChat\TcpChat\obj\Debug\Fakes\c\b\Cryptography.1.0.0.0.Fakes.xml
+C:\DB\TcpChat\TcpChat\obj\Debug\Fakes\c\b\Cryptography.1.0.0.0.Fakes.dll
+C:\DB\TcpChat\TcpChat\obj\Debug\Fakes\c\b\Cryptography.1.0.0.0.Fakes.pdb
+C:\DB\TcpChat\TcpChat\obj\Debug\Fakes\c\b\ClientLib.dll
+C:\DB\TcpChat\TcpChat\obj\Debug\Fakes\c\b\Cryptography.dll
+C:\DB\TcpChat\TcpChat\obj\Debug\Fakes\c\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\DB\TcpChat\TcpChat\obj\Debug\Fakes\c\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\DB\TcpChat\TcpChat\obj\Debug\Fakes\c\o\f.csprojResolveAssemblyReference.cache
+C:\DB\TcpChat\TcpChat\obj\Debug\Fakes\c\o\Cryptography.1.0.0.0.Fakes.dll
+C:\DB\TcpChat\TcpChat\obj\Debug\Fakes\c\o\Cryptography.1.0.0.0.Fakes.pdb
